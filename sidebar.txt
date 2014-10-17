@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[snz:home|Door43 (snz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-snz|d43-snz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-snz/archive/master.zip|d43-snz.zip]]
+
+**Recent Changes**
+{{changes>ns = snz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/snz|Ethnologue data]]
+
